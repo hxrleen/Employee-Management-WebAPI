@@ -1,0 +1,558 @@
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\appsettings.Development.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\appsettings.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.exe
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.deps.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.runtimeconfig.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.pdb
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.AssemblyReference.cache
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.AssemblyInfoInputs.cache
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.AssemblyInfo.cs
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.CoreCompileInputs.cache
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.MvcApplicationPartsAssemblyInfo.cs
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.MvcApplicationPartsAssemblyInfo.cache
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIREST.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIREST.props
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIREST.props
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIREST.props
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.build.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.development.json
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\scopedcss\bundle\WebAPIREST.styles.css
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.CopyComplete
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\refint\WebAPIREST.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.pdb
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.genruntimeconfig.cache
+D:\MyCsharp\WebAPIREST\WebAPIREST\obj\Debug\net7.0\ref\WebAPIREST.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Azure.Core.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Azure.Identity.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Humanizer.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\MessagePack.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Build.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Common.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.CodeDom.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Memory.Data.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyCsharp\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\appsettings.Development.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\appsettings.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.exe
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.deps.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.runtimeconfig.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\WebAPIREST.pdb
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Azure.Core.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Azure.Identity.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Humanizer.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\MessagePack.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Build.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Common.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.CodeDom.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Memory.Data.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.AssemblyReference.cache
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.GeneratedMSBuildEditorConfig.editorconfig
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.AssemblyInfoInputs.cache
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.AssemblyInfo.cs
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.CoreCompileInputs.cache
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.MvcApplicationPartsAssemblyInfo.cs
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.MvcApplicationPartsAssemblyInfo.cache
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.build.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.development.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIREST.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIREST.props
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIREST.props
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIREST.props
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\staticwebassets.pack.json
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\scopedcss\bundle\WebAPIREST.styles.css
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.csproj.CopyComplete
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\refint\WebAPIREST.dll
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.pdb
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\WebAPIREST.genruntimeconfig.cache
+D:\VITA\Web Based Tech\WebAPIREST\WebAPIREST\obj\Debug\net7.0\ref\WebAPIREST.dll
